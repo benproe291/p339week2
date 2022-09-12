@@ -1,0 +1,40 @@
+
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+ 
+ nav li{
+   background-color: aqua;
+	padding:10px;
+	width:25%;
+   border-radius: 30px;
+	border:1px solid black;
+	display: inline-block;
+	width: 20%;
+ }
+
+ img{
+    width: 24%;
+    padding: 20px;
+    border-style: dashed;
+    border-color: green;
+ }
+
+ p{
+    font-size: 12px;
+    color: red;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
