@@ -1,0 +1,38 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+ nav li{
+	background-color: cyan;
+	padding:10px;
+	width:25%;
+	border:2px solid black;
+	display: inline-block;
+	width: 20%;
+   border-radius: 30px;
+}
+
+img{
+   width: 24%;
+   padding: 12 px;
+   border-style: dashed;
+   margin:0%;
+}
+p{
+   font-family:'Courier New', 'Courier', monospace;
+   color:white;
+   background-color:black;
+   font-weight:bold;
+   font:size 12px;
+}
